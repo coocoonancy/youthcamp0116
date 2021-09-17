@@ -81,3 +81,39 @@ Study Less Study Smart: https://www.youtube.com/watch?v=IlU-zDU6aQ0
 冲刺 058：N 皇后（https://leetcode-cn.com/problems/n-queens/）
 冲刺 059：不同路径（https://leetcode-cn.com/problems/unique-paths/）
 冲刺 060：用两个栈实现队列（https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/）
+09.08 打卡
+冲刺 061：最小路径和（https://leetcode-cn.com/problems/minimum-path-sum/）
+冲刺 062：编辑距离（https://leetcode-cn.com/problems/edit-distance/）
+冲刺 063：子集（https://leetcode-cn.com/problems/subsets/）
+09.09 打卡
+冲刺 064：单词搜索（https://leetcode-cn.com/problems/word-search/）
+冲刺 065：删除排序链表中的重复元素（https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/）
+冲刺 066：删除排序链表中的重复元素 II（https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/）
+09.10 打卡
+冲刺 067：复原 IP 地址（https://leetcode-cn.com/problems/restore-ip-addresses/）
+冲刺 068：二叉树的最大深度（https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/）
+冲刺 069：平衡二叉树（https://leetcode-cn.com/problems/balanced-binary-tree/）
+09.11 打卡
+冲刺 070：二叉树展开为链表（https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/）
+冲刺 071：买卖股票的最佳时机 II（https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/）
+冲刺 072：单词拆分（https://leetcode-cn.com/problems/word-break/）
+09.12 打卡
+冲刺 073：二叉树的前序遍历（https://leetcode-cn.com/problems/binary-tree-preorder-traversal/）
+冲刺 074：排序链表（https://leetcode-cn.com/problems/sort-list/）
+冲刺 075：翻转字符串里的单词（https://leetcode-cn.com/problems/reverse-words-in-a-string/）
+09.13 打卡
+冲刺 076：寻找峰值（https://leetcode-cn.com/problems/find-peak-element/）
+冲刺 077：比较版本号（https://leetcode-cn.com/problems/compare-version-numbers/）
+冲刺 078：多数元素（https://leetcode-cn.com/problems/majority-element/）
+09.14 打卡
+冲刺 079：打家劫舍（https://leetcode-cn.com/problems/house-robber/）
+冲刺 080：长度最小的子数组（https://leetcode-cn.com/problems/minimum-size-subarray-sum/）
+冲刺 081：最大正方形（https://leetcode-cn.com/problems/maximal-square/）
+09.15 打卡
+冲刺 082：基本计算器（https://leetcode-cn.com/problems/basic-calculator/）
+冲刺 083：翻转二叉树（https://leetcode-cn.com/problems/invert-binary-tree/）
+冲刺 084：二叉搜索树中第 K 小的元素（https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/）
+09.16 打卡
+冲刺 085：回文链表（https://leetcode-cn.com/problems/palindrome-linked-list/）
+冲刺 086：滑动窗口最大值（https://leetcode-cn.com/problems/sliding-window-maximum/）
+冲刺 087：搜索二维矩阵 II（https://leetcode-cn.com/problems/search-a-2d-matrix-ii/）
